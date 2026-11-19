@@ -1,4 +1,4 @@
-﻿# CCB India — complete platform guide
+﻿# CCB India — complete platform guide 
 
 > This guide records the platform vision and the code that currently exists. It distinguishes running features from database scripts that still need applying, third-party settings, and unconfirmed CCB policy. Do not treat sample copy or a schema field as proof of an approved CCB business rule.
 
